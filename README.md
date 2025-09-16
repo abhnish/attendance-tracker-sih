@@ -5,6 +5,7 @@
 A smart, unified platform designed to automate attendance, optimize free periods with personalized academic and career-focused activity recommendations, and provide real-time analytics and reports to administrators and educators.
 
 ---
+Delpoyment Link :- sih-attendance-tracker.netlify.app
 
 ## 🎯 Project Goal
 - Automate attendance via QR Code + Geolocation.
